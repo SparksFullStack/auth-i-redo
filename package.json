@@ -1,0 +1,9 @@
+{
+  "name": "auth-i-redo",
+  "version": "1.0.0",
+  "description": "a practice redo of the 'auth-i' project from The Lambda School'",
+  "main": "server.js",
+  "repository": "https://github.com/SparksFullStack/auth-i-redo.git",
+  "author": "SparksFullStack <csparks@antioch.edu>",
+  "license": "MIT"
+}
